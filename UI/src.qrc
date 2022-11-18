@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/background.png</file>
+        <file>images/background.xcf</file>
+        <file>images/backgroundLog.png</file>
+        <file>images/backgroundLog.xcf</file>
+        <file>images/backgroundOri.png</file>
+        <file>images/backgroundOri.xcf</file>
+        <file>images/backgroundOri2.png</file>
+        <file>images/backgroundReg.png</file>
+        <file>images/backgroundReg.xcf</file>
+        <file>images/background_admin.png</file>
+    </qresource>
+</RCC>

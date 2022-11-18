@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts;xlf</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts;xlf</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="adminloginform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="adminoperationform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="databaseoperations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exitform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gameform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gamesettingform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="instructionform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="joingameform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loginform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="logoutform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modifyloginform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modifypasswordform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modifytotalrecform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="modifyuserform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="optionform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="playersettingform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="registerform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="soundsettingform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="adminloginform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="adminoperationform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="databaseoperations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="exitform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="gameform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="gamesettingform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="instructionform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="joingameform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="loginform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="logoutform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="modifyloginform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="modifypasswordform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="modifytotalrecform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="modifyuserform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="optionform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="playersettingform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="registerform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="rng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="soundsettingform.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="UI_zh_CN.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="adminloginform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="adminoperationform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="exitform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="gameform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="gamesettingform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="instructionform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="joingameform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="loginform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="logoutform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="modifyloginform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="modifypasswordform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="modifytotalrecform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="modifyuserform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="optionform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="playersettingform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="registerform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="soundsettingform.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\background.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\background.xcf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundLog.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundLog.xcf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundOri.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundOri.xcf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundOri2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundReg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\backgroundReg.xcf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="src.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+</Project>
